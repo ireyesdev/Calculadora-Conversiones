@@ -1,0 +1,12 @@
+.container{
+    border-radius: 8px;
+    border: 1px solid #dadce0;
+    box-shadow: none;
+}
+.resultado{
+    background-color: antiquewhite;
+    border-radius: 8px;
+    border: 1px solid #dadce0;
+    box-shadow: none;
+}
+
